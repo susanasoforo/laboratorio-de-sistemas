@@ -1,0 +1,125 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.ladoIZ{
+    border-style: solid;
+    border-radius: 10px;
+    width: 240px;
+    height: 10000px;
+    border-color: rgb(49, 43, 43);
+    background-color: black;
+}
+#inicio{
+    color: white;
+    font-size: 17px;
+    font-family: Verdana;
+}
+#imgcasa{
+    height: 25px;
+    margin-top: 13px;
+}
+#botonHome{
+    display: flex;
+
+}
+#botonSearch{
+    display: flex;
+}
+#imglupa{
+    height: 25px;
+    margin-top: 15px;
+}
+#pequeño{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(44, 43, 43);
+    background-color: rgb(44, 43, 43);
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#botonBiblioteca{
+    display: flex;
+}
+#imgbiblio{
+    height: 25px;
+    margin-top: 15px;
+}
+#grande{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(44, 43, 43);
+    background-color: rgb(44, 43, 43);
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#imglupa2{
+    height: 19px;
+    margin-top: 5px;
+}
+.letra{
+    font-size: 17px;
+}
+#imgmegusta{
+    height: 40px;
+    margin-top: 5px;
+    
+}
+#playlist{
+    display: flex;
+}
+.img{
+    display: flex;
+}
+#izquierd{
+    background-color: black;
+}
+#playlist1{
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgb(29, 28, 28);
+    background-color: rgb(29, 28, 28);
+    width: 70px;
+    height: 43px;
+}
+#pinletra{
+    font-family: Verdana;
+    font-size: 12px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+#pin{
+    display: flex;
+}
+#pinimg{
+    height: 12px;
+    margin-top: 14px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+#megustaboton{
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+#billie{
+    width: 49px;
+    margin-top: 10px;
+    border-radius: 40px;
+}
+#artista{
+    display: flex;
+}
+#letrartista{
+    margin-bottom: 0px;
+    margin-top: 13px;
+}
+#letra3{
+    margin-top: 0px;
+    font-size: 14px;
+}
+#global{
+    display: flex;
+}
+
